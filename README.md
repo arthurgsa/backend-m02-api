@@ -16,7 +16,7 @@ Cada pasta de aula contém exercícios realizados durante o estudo.
 
 _Os exercícios com aplicações estão em repositórios privados._
 
-##### :diamonds: EXTRAS:
+### :diamonds: Extras (não incluídos ao repositório e presente no módulo)
 
 - Aulas de soft skills
 - Aulas de LinkedIn
@@ -28,7 +28,7 @@ _Os exercícios com aplicações estão em repositórios privados._
 
 Este repositório contém execuções de códigos de API, siga o passo a passo para poder ligar o servidor e em seguida acesse os links demonstrados.
 
-passo1. Para qualquer pasta de aula que contenha "package.json", execute npm install para baixar os arquivos necessários para execução do código.
+passo1. Adentre pelo terminal em uma pasta de aula. Para qualquer pasta de aula que contenha _'package.json'_, execute npm install para baixar os arquivos necessários para execução do código.
 
 ```
 npm install
@@ -38,6 +38,14 @@ Apenas as seguintes pastas NÃO PRECISAM EXECUTAR o código quotado:
 
 - Aula06_01.LeituraArquivos
 - Aula06_02.JSONParse
+
+_passo1.5._ (A PARTIR DA AULA 03) Caso prefira utilizar o **nodemon** para manter o servidor atualizado sempre que editar um arquivo, execute o script:
+
+```
+npm run dev
+```
+
+###### _para o 'indexExercicio_01_e_02.js', utilize "dev2" ao invés de "dev"_
 
 passo2. Entre nos arquivos 'index' e leia os comentários ao fim do arquivo. Veja os passos de como utilizar cada rota e o que fazer.
 
@@ -54,10 +62,16 @@ Aula06_03.EscritaArquivos/src/index.js
 Aula06_04.Exercicio/src/index.js
 ```
 
-passo3. Execute o index escolhido com node e acesse a rota que quiser.
+passo3. Execute o index escolhido com node.js ou execute o script do passo1.5. e acesse a rota que quiser.
+
+#### Prints
+
+<a href="https://img001.prntscr.com/file/img001/7PVmCbE9S0qRiGuQnI4Cmw.png">
+    <img src="https://img001.prntscr.com/file/img001/7PVmCbE9S0qRiGuQnI4Cmw.png" alt="Print execução exemplo - Aula04 - Adicionar instrutor">
+  </a>
 
 ##### :link: Links úteis
 
-###### Backend Módulo 1: [Lógica de Programação](https://github.com/arthurgsa/m01-logic)
+###### Backend Módulo 1: [Lógica de Programação](https://github.com/arthurgsa/backend-m01-logic)
 
-###### tags: `backend` `módulo 2` `exercício de classe` `nodeJS` `api` `api rest` `server` `internet` `rotas` `intermediarios` `controladores` ` async` `read and write files`
+###### tags: `backend` `módulo 2` `exercício de classe` `nodeJS` `api` `api rest` `server` `internet` `rotas` `intermediarios` `controladores` ` async` `read and write files` `ler e escrever arquivos`
