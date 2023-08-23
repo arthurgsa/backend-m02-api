@@ -66,9 +66,7 @@ passo3. Execute o index escolhido com node.js ou execute o script do passo1.5. e
 
 #### Prints
 
-<a href="https://img001.prntscr.com/file/img001/7PVmCbE9S0qRiGuQnI4Cmw.png">
-    <img src="https://img001.prntscr.com/file/img001/7PVmCbE9S0qRiGuQnI4Cmw.png" alt="Print execução exemplo - Aula04 - Adicionar instrutor">
-  </a>
+![Print](https://img001.prntscr.com/file/img001/7PVmCbE9S0qRiGuQnI4Cmw.png)
 
 ##### :link: Links úteis
 
