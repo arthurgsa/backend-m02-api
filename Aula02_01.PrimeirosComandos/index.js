@@ -42,4 +42,4 @@ console.log(arrayUnico1)
 console.log(arrayUnico2)
 
 // #HOWTO# Como executar o código: 
-// Apenas execute com node.js
+// Apenas descomente o que deseja testar e execute com node.js

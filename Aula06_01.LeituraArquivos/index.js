@@ -31,4 +31,4 @@ console.log('antes de ler'); // necessario ; antes de funçao anonima
 console.log('depois de ler')
 
 // #HOWTO# Como executar o código: 
-// Apenas execute com node.js
+// Apenas descomente o que deseja testar e execute com node.js

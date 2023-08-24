@@ -16,4 +16,4 @@ const fs = require('fs/promises');
 })()
 
 // #HOWTO# Como executar o código: 
-// Apenas execute com node.js
+// Apenas descomente o que deseja testar e execute com node.js
