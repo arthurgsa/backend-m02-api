@@ -73,5 +73,6 @@ passo3. Execute o index escolhido com node.js ou execute o script do passo1.5. e
 ##### :link: Links úteis
 
 ###### Backend Módulo 1: [Lógica de Programação](https://github.com/arthurgsa/backend-m01-logic)
+###### Backend Módulo 3: [PostgreSQL](https://github.com/arthurgsa/backend-m03-sql-postgresql/)
 
 ###### tags: `backend` `módulo 2` `exercício de classe` `nodeJS` `api` `api rest` `server` `internet` `rotas` `intermediarios` `controladores` ` async` `read and write files` `ler e escrever arquivos`
